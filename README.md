@@ -8,7 +8,7 @@ A simple Spring framwork.
 
 ## Download
 ```bash
-git clone https://github.com/Yikun/simple-spring.git
+git clone https://github.com/Hosiang1026/simple-spring.git
 ```
 
 ## Test
